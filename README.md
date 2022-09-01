@@ -8,7 +8,7 @@ This is a repository which contains different templates for documents to be used
 - Registration seminar template
 - Progress report template
 - Sample registration seminar slide deck (both PPT and PDF)
-- Notes on conference travel grants (originally compiled by Avirup Saha in 2019)
+- Notes on conference travel grants (originally compiled by Avirup Saha in 2019) (Notice, it has some useful practices and cautions mentioned. I would recommend to go over this document once before booking your tickets for international conference travels.)
 - Application for NOC to for visa application to attend conference / internship abroad
 - Co-author NOC document (needed when you apply for NOC through ERP for travel)
 - Sample visa cover letter
