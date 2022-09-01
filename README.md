@@ -17,7 +17,7 @@ This is a repository which contains different templates for documents to be used
 - Sample conference talk slide in PPT and PDF
 - Sample synopsis seminar slide in PPT and PDF
 - Sample synopsis seminar report template (You can modify the same for different progress report etc. too)
-- TCS Fellowship proposal and application templates (TCS-fellowship.zip) (Note you will have to submit duly signed progress report, continuation and stipent recieve certificates) at the end of each annual cycle. Do get in touch with Academic section (PGS&R) for the same. 
+- TCS Fellowship proposal and application templates (TCS-fellowship.zip) (Note you will have to submit duly signed progress report, continuation and stipent recieve certificates at the end of each annual cycle. Do get in touch with Academic section (PGS&R) for the same.)
 
 ### Acknowledgement
 I would like to thank Dr. Abhik Jana (alumnus Dept. of CSE, IIT Kharagpur) for passing on some of the documents to me which helped me curate this list. We hope that this repository will be useful for students during the tenure at IIT Kharagpur.
