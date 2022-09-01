@@ -12,7 +12,7 @@ This is a repository which contains different templates for documents to be used
 - Application for NOC to for visa application to attend conference / internship abroad
 - Co-author NOC document (needed when you apply for NOC through ERP for travel)
 - Sample visa cover letter
-- Sample TA exemption application
+- Sample Teaching Assistantship exemption application
 - Sample letter of statement for applying travel grant for attending conferences
 - Sample conference talk slide in PPT and PDF
 - Sample synopsis seminar slide in PPT and PDF
